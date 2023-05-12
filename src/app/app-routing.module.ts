@@ -6,6 +6,7 @@ import { LoginComponent } from './components/login/login.component';
 import { LoginGuard } from './guards/login.guard';
 
 const routes: Routes = [
+  {path: '', pathMatch:'full', redirectTo:'login'},
   {path: 'login', component: LoginComponent},
   {path: 'cliente', component: ClientComponent, canActivate: [LoginGuard]},
   {path: ':id', component: DetailClientComponent, canActivate: [LoginGuard]}
