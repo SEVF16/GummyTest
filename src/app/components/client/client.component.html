@@ -1,0 +1,23 @@
+<app-header></app-header>
+<div class="container">
+  <table id="customers">
+    <tr>
+      <th>Nombre</th>
+      <th>Rut</th>
+      <th></th>
+    </tr>
+    <tr *ngFor="let client of info ">
+      <td>{{client.nombre}}</td>
+      <td>{{client.rut | separador }}-{{client.dv}} </td>
+      <td class="action">
+        <button  class="btn" (click)="seeDetail(client.id)">Ver</button>
+        <button  class="btn" id="eliminar" (click)="onDelete(client.id)">Eliminar</button>
+      </td>
+    </tr>
+  </table>
+  <div class="botones">
+    <button class="btn btn-primary" (click)="changePage(false)" [disabled]='currentPage === 1' >Anterior</button>
+    <button class="btn btn-primary" (click)="changePage(true)"  [disabled]='currentPage >= pageNumber'>Siguiente</button>
+
+  </div>
+</div>

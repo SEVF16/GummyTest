@@ -1,0 +1,43 @@
+
+<div class="contact_form" *ngFor="let item of client">
+  <form action="submeter-formulario.php" method="post">
+
+
+    <div>
+      <label for="nombre" class="colocar_nombre">Nombre:
+
+      </label>
+
+      <div class="container">{{item.nombre}}</div>
+
+    </div>
+
+    <div>
+      <label for="email" class="colocar_email">Rut:
+
+      </label>
+      <div class="container">{{item.rut | separador}}-{{item.dv}}</div>
+    </div>
+
+    <div>
+      <label for="telefone" class="colocar_telefono">Teléfono:
+      </label>
+      <div class="container">{{item.telefono}}</div>
+    </div>
+
+    <div>
+      <label for="website" class="colocar_website">Direccion:
+      </label>
+      <div class="container">{{item.direccion}}</div>
+    </div>
+
+    <div>
+      <label for="asunto" class="colocar_asunto">Saldo:
+
+      </label>
+      <div class="container">{{item.saldoCuentaCorriente | currency:'CLP ':'symbol':'4.2-2'}}</div>
+    </div>
+
+
+  </form>
+</div>

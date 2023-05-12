@@ -1,0 +1,328 @@
+{
+  "clientes": [
+    {
+      "id": 71,
+      "nombre": "Tricia Cumberpatch",
+      "rut": 12991613,
+      "dv": 1,
+      "direccion": "6847 Garrison Parkway",
+      "telefono": "471-606-9426",
+      "saldoCuentaCorriente": 138535
+    },
+    {
+      "id": 72,
+      "nombre": "Ramona Sperski",
+      "rut": 17554254,
+      "dv": 2,
+      "direccion": "913 Anhalt Lane",
+      "telefono": "570-896-5550",
+      "saldoCuentaCorriente": 1219937
+    },
+    {
+      "id": 74,
+      "nombre": "Boniface Barkshire",
+      "rut": 15594645,
+      "dv": 5,
+      "direccion": "9677 Banding Terrace",
+      "telefono": "335-426-8590",
+      "saldoCuentaCorriente": 1206193
+    },
+    {
+      "id": 75,
+      "nombre": "Osgood Davy",
+      "rut": 16929785,
+      "dv": 5,
+      "direccion": "4212 Ridge Oak Junction",
+      "telefono": "306-491-1336",
+      "saldoCuentaCorriente": 1207474
+    },
+    {
+      "id": 76,
+      "nombre": "Cassy McAllester",
+      "rut": 17073475,
+      "dv": 7,
+      "direccion": "39 Grover Crossing",
+      "telefono": "219-290-2685",
+      "saldoCuentaCorriente": 1047078
+    },
+    {
+      "id": 77,
+      "nombre": "Adan Thrift",
+      "rut": 15172670,
+      "dv": 8,
+      "direccion": "33 Bashford Point",
+      "telefono": "910-492-1737",
+      "saldoCuentaCorriente": 133224
+    },
+    {
+      "id": 78,
+      "nombre": "Bartholomeo Farbrace",
+      "rut": 15608749,
+      "dv": 6,
+      "direccion": "75184 Dunning Drive",
+      "telefono": "603-183-9552",
+      "saldoCuentaCorriente": 552711
+    },
+    {
+      "id": 79,
+      "nombre": "Marylinda Gimson",
+      "rut": 17721687,
+      "dv": 7,
+      "direccion": "6479 Fairview Park",
+      "telefono": "157-211-0830",
+      "saldoCuentaCorriente": 629585
+    },
+    {
+      "id": 81,
+      "nombre": "Amitie Heamus",
+      "rut": 12793743,
+      "dv": 5,
+      "direccion": "661 Corscot Parkway",
+      "telefono": "561-558-9193",
+      "saldoCuentaCorriente": 1002223
+    },
+    {
+      "id": 82,
+      "nombre": "Keeley Monery",
+      "rut": 16355449,
+      "dv": 5,
+      "direccion": "2 Summerview Place",
+      "telefono": "682-579-5396",
+      "saldoCuentaCorriente": 828792
+    },
+    {
+      "id": 83,
+      "nombre": "Terrie Trunkfield",
+      "rut": 15983978,
+      "dv": 8,
+      "direccion": "8 Gateway Terrace",
+      "telefono": "607-897-5155",
+      "saldoCuentaCorriente": 80084
+    },
+    {
+      "id": 84,
+      "nombre": "Teador Fumagalli",
+      "rut": 12522676,
+      "dv": 5,
+      "direccion": "2795 Jenifer Road",
+      "telefono": "647-890-2075",
+      "saldoCuentaCorriente": 216567
+    },
+    {
+      "id": 86,
+      "nombre": "Anya Simonetto",
+      "rut": 14652782,
+      "dv": 5,
+      "direccion": "17166 Express Terrace",
+      "telefono": "288-518-5906",
+      "saldoCuentaCorriente": 683909
+    },
+    {
+      "id": 87,
+      "nombre": "Herman Berriball",
+      "rut": 13871504,
+      "dv": 2,
+      "direccion": "3 Bellgrove Place",
+      "telefono": "902-645-0727",
+      "saldoCuentaCorriente": 499126
+    },
+    {
+      "id": 88,
+      "nombre": "Lane Spall",
+      "rut": 12720616,
+      "dv": 3,
+      "direccion": "15543 Basil Trail",
+      "telefono": "198-589-6135",
+      "saldoCuentaCorriente": 403075
+    },
+    {
+      "id": 89,
+      "nombre": "Cly Liddell",
+      "rut": 14616641,
+      "dv": 8,
+      "direccion": "9 Novick Court",
+      "telefono": "449-597-8150",
+      "saldoCuentaCorriente": 812545
+    },
+    {
+      "id": 90,
+      "nombre": "Gilberto Toby",
+      "rut": 17175894,
+      "dv": 9,
+      "direccion": "8 Loomis Way",
+      "telefono": "612-157-5636",
+      "saldoCuentaCorriente": 373197
+    },
+    {
+      "id": 91,
+      "nombre": "Rickard Dionsetto",
+      "rut": 12243580,
+      "dv": 8,
+      "direccion": "10 Vidon Court",
+      "telefono": "590-243-8729",
+      "saldoCuentaCorriente": 1225808
+    },
+    {
+      "id": 92,
+      "nombre": "Eugine MacAllaster",
+      "rut": 15073131,
+      "dv": 3,
+      "direccion": "28 Manitowish Road",
+      "telefono": "392-988-0830",
+      "saldoCuentaCorriente": 671437
+    },
+    {
+      "id": 93,
+      "nombre": "Yuri Finding",
+      "rut": 16677141,
+      "dv": 6,
+      "direccion": "9354 Onsgard Plaza",
+      "telefono": "755-163-5007",
+      "saldoCuentaCorriente": 458553
+    },
+    {
+      "id": 94,
+      "nombre": "Chaim Brandone",
+      "rut": 16767478,
+      "dv": 3,
+      "direccion": "31 North Circle",
+      "telefono": "233-379-1434",
+      "saldoCuentaCorriente": 126086
+    },
+    {
+      "id": 95,
+      "nombre": "Alexandros Murgatroyd",
+      "rut": 15930587,
+      "dv": 1,
+      "direccion": "0 Bay Terrace",
+      "telefono": "682-848-9671",
+      "saldoCuentaCorriente": 1432976
+    },
+    {
+      "id": 96,
+      "nombre": "Brew Wetherburn",
+      "rut": 13333397,
+      "dv": 2,
+      "direccion": "23 Colorado Alley",
+      "telefono": "397-654-3060",
+      "saldoCuentaCorriente": 639612
+    },
+    {
+      "id": 97,
+      "nombre": "Reeva Fehely",
+      "rut": 12558772,
+      "dv": 3,
+      "direccion": "293 Shelley Lane",
+      "telefono": "550-908-7799",
+      "saldoCuentaCorriente": 1281206
+    },
+    {
+      "id": 98,
+      "nombre": "Danella Van Salzberger",
+      "rut": 14967718,
+      "dv": 7,
+      "direccion": "11 American Ash Drive",
+      "telefono": "695-120-0456",
+      "saldoCuentaCorriente": 354516
+    },
+    {
+      "id": 99,
+      "nombre": "Cornie Duval",
+      "rut": 13511105,
+      "dv": 3,
+      "direccion": "6724 Heffernan Place",
+      "telefono": "998-695-3228",
+      "saldoCuentaCorriente": 778967
+    },
+    {
+      "id": 100,
+      "nombre": "Maryann Yeowell",
+      "rut": 17569306,
+      "dv": 8,
+      "direccion": "1 Sycamore Point",
+      "telefono": "434-834-5406",
+      "saldoCuentaCorriente": 75341
+    },
+    {
+      "id": 101,
+      "nombre": "Kelley Rowet",
+      "rut": 12106667,
+      "dv": 5,
+      "direccion": "6549 Eastwood Circle",
+      "telefono": "583-828-1950",
+      "saldoCuentaCorriente": 304247
+    },
+    {
+      "id": 102,
+      "nombre": "Morry Ninotti",
+      "rut": 17213368,
+      "dv": 4,
+      "direccion": "49 Heffernan Plaza",
+      "telefono": "894-645-7255",
+      "saldoCuentaCorriente": 1168452
+    },
+    {
+      "id": 103,
+      "nombre": "Wilmer Lesley",
+      "rut": 17218204,
+      "dv": 1,
+      "direccion": "1 Kropf Street",
+      "telefono": "516-966-3475",
+      "saldoCuentaCorriente": 1203831
+    },
+    {
+      "id": 104,
+      "nombre": "Corty Jeyness",
+      "rut": 14645431,
+      "dv": 4,
+      "direccion": "45 Walton Lane",
+      "telefono": "630-464-8814",
+      "saldoCuentaCorriente": 54998
+    },
+    {
+      "id": 105,
+      "nombre": "Bev MacNeely",
+      "rut": 17273628,
+      "dv": 8,
+      "direccion": "256 Green Terrace",
+      "telefono": "538-520-0731",
+      "saldoCuentaCorriente": 1486085
+    },
+    {
+      "id": 106,
+      "nombre": "Donia Widmore",
+      "rut": 16815793,
+      "dv": 6,
+      "direccion": "08 Killdeer Place",
+      "telefono": "437-224-3250",
+      "saldoCuentaCorriente": 339585
+    },
+    {
+      "id": 107,
+      "nombre": "Elfreda Collingworth",
+      "rut": 16760929,
+      "dv": 8,
+      "direccion": "26 Debra Plaza",
+      "telefono": "181-275-0402",
+      "saldoCuentaCorriente": 827087
+    },
+    {
+      "id": 108,
+      "nombre": "Karia Mulholland",
+      "rut": 14577929,
+      "dv": 2,
+      "direccion": "522 Del Mar Lane",
+      "telefono": "855-915-1234",
+      "saldoCuentaCorriente": 1214280
+    },
+    {
+      "id": 109,
+      "nombre": "Rozalin Bunten",
+      "rut": 14469232,
+      "dv": 2,
+      "direccion": "636 Stuart Place",
+      "telefono": "619-275-2488",
+      "saldoCuentaCorriente": 944770
+    }
+  ]
+}

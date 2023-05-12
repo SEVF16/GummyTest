@@ -1,0 +1,16 @@
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+
+    <h2 class="active"> Sign In </h2>
+
+    <form>
+      <input type="text" id="login" class="fadeIn second form-control" name="login" placeholder="login" [(ngModel)]="nombreUsuario" autocomplete="off">
+      <input type="password" id="password" class="fadeIn third" name="login" placeholder="password" [(ngModel)]="password">
+      <input type="button" class="fadeIn fourth" value="Log In" (click)="login()">
+      <p *ngIf="error">Nombre de usuario o contraseña incorrectos</p>
+    </form>
+
+
+  </div>
+</div>
+
